@@ -69,7 +69,7 @@ Summary:
 2. The improvements seem to be modest
 
 3. Incremental improvements are more realistic than drastic ones.
-4. 
-5. Small improvements, in tandem with other tweaks, can add up to make a significant difference.
 
-6. For now, however, an approach to resampling that combines aspects of both oversampling and undersampling.
+4. Small improvements, in tandem with other tweaks, can add up to make a significant difference.
+
+5. For now, however, an approach to resampling that combines aspects of both oversampling and undersampling.
