@@ -73,3 +73,9 @@ Summary:
 4. Small improvements, in tandem with other tweaks, can add up to make a significant difference.
 
 5. For now, however, an approach to resampling that combines aspects of both oversampling and undersampling.
+ 
+6. Here is we can see diferrence betwenn accuracy score that varies from 0.79 to 0.93 and also confusion matrix range is been wider tha expected for high risk. 
+
+7. To improve this model, we can drop some of the lower ranked features.
+
+8. From the confusion matrix results, the precision for the bad loan applications is low, indicating a large number of false positives, which indicates an unreliable positive classification.
